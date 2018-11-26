@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentExample</string>
+    <string name="splash">Заставка</string>
+    <string name="main">Главный экран</string>
+    <string name="about">О программе</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="load">Загрузка...</string>
+    <string name="about_content">Версия 1.0 \n Автор: Иванов Иван \n Дата создания: 26.11.2018</string>
+</resources>
